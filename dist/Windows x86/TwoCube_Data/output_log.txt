@@ -1,0 +1,37 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\TwoCube\Windows x86\TwoCube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\TwoCube\Windows x86\TwoCube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.241 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\TwoCube\Windows x86\TwoCube_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b0 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.948239 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2092.
+Total: 1.282106 ms (FindLiveObjects: 0.187740 ms CreateObjectMapping: 0.181325 ms MarkObjects: 0.897218 ms  DeleteObjects: 0.014540 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.404843 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2092.
+Total: 0.816819 ms (FindLiveObjects: 0.128296 ms CreateObjectMapping: 0.103064 ms MarkObjects: 0.572628 ms  DeleteObjects: 0.011546 ms)
+
